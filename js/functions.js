@@ -2,23 +2,23 @@
 const questions = [
   {
     q: "Mikä Azure-palvelu tarjoaa virtuaalisia tietokoneita?",
-    //a: "Azure Virtual Machines"
+    a: "Azure Virtual Machines"
   },
   {
     q: "Mikä on Microsoft Azure? ",
-    //a: "Azure on Microsoftin tarjoama pilvipalvelualusta, joka mahdollistaa sovellusten ja palveluiden rakentamisen, testaamisen, käyttöönoton ja hallinnan globaalissa verkossa."
+    a: "Azure on Microsoftin tarjoama pilvipalvelualusta, joka mahdollistaa sovellusten ja palveluiden rakentamisen, testaamisen, käyttöönoton ja hallinnan globaalissa verkossa."
   },
   {
     q: "Mikä on Azuren palvelu relaatiotietokannoille?",
-    //a: "Azure SQL Database"
+    a: "Azure SQL Database"
   },
   {
     q: "Minkä palvelun avulla voi julkaista web-sovelluksia nopeasti?",
-    //a: "Azure App Service"
+    a: "Azure App Service"
   },
   {
     q: "Miten Azure huolehtii tietoturvasta?",
-    //a: "Azure noudattaa kansainvälisiä tietoturvastandardeja ja tarjoaa sisäänrakennettua kyberturvaa, kuten salauksen, identiteetinhallinnan ja uhkien tunnistuksen"
+    a: "Azure noudattaa kansainvälisiä tietoturvastandardeja ja tarjoaa sisäänrakennettua kyberturvaa, kuten salauksen, identiteetinhallinnan ja uhkien tunnistuksen"
   }
 ];
 
